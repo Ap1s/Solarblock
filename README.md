@@ -1,4 +1,3 @@
-# Solarblock
 # solarblock
 ## Install
 *TODO*
